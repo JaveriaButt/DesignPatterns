@@ -1,0 +1,3 @@
+In a drawing application, managing various shapes efficiently can be challenging. Creating multiple classes for each shape variant leads to code duplication and maintenance overhead. Additionally, dynamically adding or modifying shapes during runtime can be cumbersome and error-prone.
+
+The Prototype design pattern offers a solution to these challenges by providing a way to create new objects by copying an existing object, known as the prototype. This allows for efficient management of shape variations and dynamic shape manipulation at runtime, promoting code reuse and maintainability.
