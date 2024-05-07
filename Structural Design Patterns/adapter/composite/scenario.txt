@@ -1,7 +1,0 @@
-
-Task:
-
-Implement classes to represent different types of employees: Workers, Managers, and Executives. Each class should have properties to store employee details such as name, position, department, and role.
-Create a class Employee to serve as the base class. It should contain common properties and methods shared by all types of employees.
-Implement a class CompanyDirectory to manage the list of employees. It should provide methods to add and remove employees, as well as a method to display employee details.
-Demonstrate the scenario by creating instances of workers, managers, and executives, adding them to the company directory, and displaying their details.

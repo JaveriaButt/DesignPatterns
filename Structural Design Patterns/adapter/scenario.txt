@@ -1,7 +1,0 @@
-Scenario:
-
-Suppose we have an existing Square class with a method DrawSquare(int size), and we want to use this class in a system where shapes are expected to implement the IShape interface with a method Draw().
-
-Task:
-
-Implement the Adapter design pattern to adapt the Square class to the IShape interface using both the Object Adapter and Class Adapter approaches. Then, create objects to draw a square of size 5 using each adapter approach.
